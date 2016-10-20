@@ -17,7 +17,7 @@ A basic template project for Angular 2 using webpack, karma, jasmine, typescript
 4. Import the typings in the `vendor.ts` file (e.g. `import 'moment';`)
 
 ## License
-The MIT License - Competeleague  <br />
+The MIT License - FunByte  <br />
 See the [LICENSE](https://github.com/FunByte/EmptyAngular2/blob/master/LICENSE) file fore more information!
 
 ## Authors
