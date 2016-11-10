@@ -1,6 +1,6 @@
 import { Routes }  from '@angular/router';
 
-import { HomeComponent } from './components/routing_components/home/home.component.ts';
+import { HomeComponent } from './components/routing_components/home/home.component';
 
 export const ROUTES: Routes = [
   {
